@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ChallengeRefactor/ChallengeRefactor.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ChallengeRefactor.Tests/ChallengeRefactor.Tests.csproj" />
+  </Folder>
+</Solution>
